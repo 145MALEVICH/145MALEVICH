@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **145MALEVICH/145MALEVICH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
